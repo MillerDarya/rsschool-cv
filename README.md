@@ -1,1 +1,2 @@
-# rsschool-cv
+https://millerdarya.github.io/rsschool-cv/
+
